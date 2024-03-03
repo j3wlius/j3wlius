@@ -10,7 +10,7 @@ Hi there, I'm Julius 👋
 </p>
 
 <p align='center'>
-I'm a Full Stack Web Developer 💻
+ **I'm a Full Stack Web Developer** 💻
 </p>
 <hr>
 
@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer 💻
 I'm passionate about the entire process of developing creative websites. I love the challenge of spending time to meet new people.
 </p>
 
-##🤝 Connect with me:
+## 🤝 Connect with me:
 <div>
     <a href='https://twitter.com/tjewlius'>
         <img src='/icons/twitter.png' width='21px' alt='icon | Twitter' />
