@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”(https://www.canva.com/design/DAF-Z4nC4C0/UDb8iHtHvMIzMvEvGZUJkQ/view" alt=”my banner”>
+<img width=”200" height=”200" src=”https://www.canva.com/design/DAF-Z4nC4C0/UDb8iHtHvMIzMvEvGZUJkQ/view" alt=”my banner”>
 
 </p>
 
@@ -24,8 +24,8 @@ I'm passionate about the entire process of developing creative websites. I love 
         <img src='/icons/twitter.png' width='21px' alt='icon | Twitter' />
     </a>
 
-    <a href'#'>
-        <img src='https://www.linkedin.com/in/tamale-julius/' />
+    <a href'https://www.linkedin.com/in/tamale-julius/'>
+        <img src='' />
     </a>
 </div>
 
