@@ -11,11 +11,11 @@
 
 ---
 
-### 🐍 Contributions
+<!-- ### 🐍 Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/j3wlius/j3wlius/output/snake.svg" alt="Snake Animation" />
-</div>
+</div> -->
 
 ---
 
@@ -114,5 +114,6 @@
     </a>
   </p>
 </div>
+
 
 
